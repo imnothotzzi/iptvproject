@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "2024-11-28 OJT DAY 1"
             }
+          },
+          {
+            "id": "9ac183009da08fc9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-03 15.18.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-03 15.18.28.excalidraw"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,11 +251,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "23b9554edce2611a",
+  "active": "9ac183009da08fc9",
   "lastOpenFiles": [
-    "1. Daily/2024-11-27.md",
-    "1. Daily/2024-12-03 OJT DAY3 - 대안 찾기.md",
+    "Excalidraw/deep copy.md",
+    "Excalidraw/Drawing 2024-12-03 15.18.28.excalidraw.md",
     "1. Daily/2024-11-28 OJT DAY 1.md",
+    "1. Daily/2024-12-03 OJT DAY3 - 대안 찾기.md",
+    "1. Daily/2024-11-27.md",
     "1. Daily/2024-08-30.md",
     "1. Daily/2024-09-06.md",
     "1. Daily/2024-11-04.md",
@@ -265,8 +279,6 @@
     "1. Daily/2024-09-05.md",
     "1. Daily/2024-09-04.md",
     "1. Daily/2024-08-29.md",
-    "1. Daily/2024-08-28.md",
-    "1. Daily/2024-08-27 로지스틱 회귀분석.md",
     "supplyproject",
     "Attached file/넘파이예시.png",
     "Excalidraw/2차원리스트의 형식.png",
