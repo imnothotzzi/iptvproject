@@ -67,12 +67,14 @@
             "id": "9ac183009da08fc9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/EQ_Flowchart.md"
+                "file": "1. Daily/2024-12-04 OJT DAY 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "EQ_Flowchart"
+              "icon": "lucide-file",
+              "title": "2024-12-04 OJT DAY 3"
             }
           }
         ],
@@ -253,8 +255,9 @@
   },
   "active": "9ac183009da08fc9",
   "lastOpenFiles": [
-    "Excalidraw/deep copy.md",
     "Excalidraw/EQ_Flowchart.md",
+    "1. Daily/2024-12-04 OJT DAY 3.md",
+    "Excalidraw/deep copy.md",
     "1. Daily/2024-11-28 OJT DAY 1.md",
     "1. Daily/2024-12-03 OJT DAY3 - 대안 찾기.md",
     "1. Daily/2024-11-27.md",
@@ -278,7 +281,6 @@
     "1. Daily/2024-09-09.md",
     "1. Daily/2024-09-05.md",
     "1. Daily/2024-09-04.md",
-    "1. Daily/2024-08-29.md",
     "supplyproject",
     "Attached file/넘파이예시.png",
     "Excalidraw/2차원리스트의 형식.png",
