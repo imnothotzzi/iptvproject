@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Yearly/2025.md",
+                "file": "1. Daily/2025-01-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025"
+              "title": "2025-01-08"
             }
           }
         ],
@@ -214,8 +214,8 @@
   },
   "active": "35b13093f1112f44",
   "lastOpenFiles": [
-    "1. Daily/2025-01-04.md",
     "4. Yearly/2025.md",
+    "1. Daily/2025-01-04.md",
     "1. Daily/2025-01-08.md",
     "Excalidraw/Drawing 2025-01-08 12.38.51.excalidraw.md",
     "1. Daily/2025-01-03.md",
