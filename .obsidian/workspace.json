@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-01-08"
             }
+          },
+          {
+            "id": "35b13093f1112f44",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-08 12.38.51.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-08 12.38.51.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,11 +210,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "521d470a121a513f",
+  "active": "35b13093f1112f44",
   "lastOpenFiles": [
+    "1. Daily/2025-01-08.md",
+    "Excalidraw/Drawing 2025-01-08 12.38.51.excalidraw.md",
     "1. Daily/2025-01-03.md",
     "1. Daily/2024-12-30.md",
-    "1. Daily/2025-01-08.md",
     "1. Daily/2025-01-04.md",
     "1. Daily/2024-12-28 멘토링 3일차.md",
     "4. Yearly/2025 히타치 하이테크 코리아 자소서.md",
@@ -224,7 +238,6 @@
     "1. Daily/2024-08-29.md",
     "1. Daily/2024-12-23.md",
     "1. Daily/2024-12-27.md",
-    "1. Daily/2024-12-26.md",
     "supplyproject",
     "Attached file/넘파이예시.png",
     "Excalidraw/2차원리스트의 형식.png",
