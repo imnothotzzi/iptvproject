@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "2025-01-16"
             }
+          },
+          {
+            "id": "9a07222a0397279a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-16 18.51.36.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-16 18.51.36.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,10 +224,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "35b13093f1112f44",
+  "active": "9a07222a0397279a",
   "lastOpenFiles": [
-    "1. Daily/2025-01-04.md",
     "1. Daily/2025-01-16.md",
+    "Excalidraw/Drawing 2025-01-16 18.51.36.excalidraw.md",
+    "1. Daily/2025-01-04.md",
     "1. Daily/2025-01-08.md",
     "2. Weekly/2025-W02.md",
     "4. Yearly/2025.md",
@@ -239,7 +252,6 @@
     "1. Daily/2024-12-05 OJT DAY 5.md",
     "1. Daily/2024-12-04 OJT DAY 4.md",
     "1. Daily/2024-11-28 OJT DAY 1.md",
-    "1. Daily/2024-11-19.md",
     "supplyproject",
     "Attached file/넘파이예시.png",
     "Excalidraw/2차원리스트의 형식.png",
