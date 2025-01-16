@@ -39,12 +39,12 @@
             "id": "9a07222a0397279a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-16 18.51.36.excalidraw.md"
+                "file": "Excalidraw/추천도식.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-16 18.51.36.excalidraw"
+              "icon": "lucide-image",
+              "title": "추천도식"
             }
           }
         ],
@@ -226,8 +226,9 @@
   },
   "active": "9a07222a0397279a",
   "lastOpenFiles": [
+    "Excalidraw/추천도식.md",
+    "Excalidraw/추천도식.png",
     "1. Daily/2025-01-16.md",
-    "Excalidraw/Drawing 2025-01-16 18.51.36.excalidraw.md",
     "1. Daily/2025-01-04.md",
     "1. Daily/2025-01-08.md",
     "2. Weekly/2025-W02.md",
@@ -251,7 +252,6 @@
     "1. Daily/2024-12-07 멘토링 1일차.md",
     "1. Daily/2024-12-05 OJT DAY 5.md",
     "1. Daily/2024-12-04 OJT DAY 4.md",
-    "1. Daily/2024-11-28 OJT DAY 1.md",
     "supplyproject",
     "Attached file/넘파이예시.png",
     "Excalidraw/2차원리스트의 형식.png",
@@ -264,7 +264,6 @@
     "Attached file/식별자관계.png",
     "Attached file/식별자분류.png",
     "Attached file/주식별자특징.png",
-    "Attached file/관계의선택사양.png",
     "fonts/나눔손글씨 외할머니글씨.ttf",
     "fonts/나눔손글씨 미니 손글씨.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
