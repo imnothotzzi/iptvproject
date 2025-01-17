@@ -39,12 +39,14 @@
             "id": "9a07222a0397279a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/추천도식.png"
+                "file": "1. Daily/2025-01-17.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "추천도식"
+              "icon": "lucide-file",
+              "title": "2025-01-17"
             }
           }
         ],
@@ -226,8 +228,9 @@
   },
   "active": "9a07222a0397279a",
   "lastOpenFiles": [
-    "Excalidraw/추천도식.md",
     "Excalidraw/추천도식.png",
+    "1. Daily/2025-01-17.md",
+    "Excalidraw/추천도식.md",
     "1. Daily/2025-01-16.md",
     "1. Daily/2025-01-04.md",
     "1. Daily/2025-01-08.md",
@@ -251,7 +254,6 @@
     "1. Daily/2024-12-09 OJT Brainstorming.md",
     "1. Daily/2024-12-07 멘토링 1일차.md",
     "1. Daily/2024-12-05 OJT DAY 5.md",
-    "1. Daily/2024-12-04 OJT DAY 4.md",
     "supplyproject",
     "Attached file/넘파이예시.png",
     "Excalidraw/2차원리스트의 형식.png",
